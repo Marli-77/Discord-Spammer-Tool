@@ -22,6 +22,13 @@
   Comunidad Oficial de Script para Usos Eticos Sin Fines de Daños a Terceros!
 - **Discord:** @amarrigo_
 
+## 📷 Demostracion
+![Inicio](https://cdn.discordapp.com/attachments/1371612970332717220/1406462868135743539/image.png?ex=68a28e1e&is=68a13c9e&hm=7fb8085c157e9b4aa61d4d9edab75881cb17c16f5240440e714ff6b8c37a42b8&)
+
+![Ejecutado](https://cdn.discordapp.com/attachments/1371612970332717220/1406462974075469974/image.png?ex=68a28e37&is=68a13cb7&hm=f6ee16a97e5ebe7606ed065cfa73e6a82ccf7e5da75a61c1bd070ca8c0fff347&)
+
+
 ## 📜 Licencia
 - MIT License © 2025 Marli
+
 - Copyright (c) 2025 QuantumCodes Community
